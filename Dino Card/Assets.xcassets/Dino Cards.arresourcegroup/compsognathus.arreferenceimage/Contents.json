@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "compsognathus.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 7.4000000000000004
+  }
+}
